@@ -1,3 +1,8 @@
+
+| Number Generator                                                         | Dice Roller                           |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [numbergenerator.org](https://numbergenerator.org/randomnumbergenerator) | [rolladie.net](https://rolladie.net/) |
+
 1. What are your core moral values?
 2. How do your values guide your actions?
 3. Have you ever compromised your values? Describe the situation.
