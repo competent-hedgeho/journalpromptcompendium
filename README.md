@@ -6,8 +6,6 @@ This is a series of lists of journal prompts by organized category. You can acce
 
 If you're having trouble deciding on a cateogory or a prompt, randomizers are very helpful! Two options are a [random number generator](https://numbergenerator.org/randomnumbergenerator) or a [dice roller](https://rolladie.net/). You can access them by clicking the hyperlinks on the names in the previous sentence, or on the masterlist and each prompt page.
 
-[:game_die:](https://rolladie.net/) [:hash:](https://numbergenerator.org/randomnumbergenerator) <sub>unfortunately I could not add the emoji links on each page, but they're here for fun. </sub>
-
 ---
 
 #### If you haven't used a random number generator/ online dice roller before, here's a couple of tips!
