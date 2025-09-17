@@ -1,3 +1,8 @@
+
+| Number Generator                                                         | Dice Roller                           |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [numbergenerator.org](https://numbergenerator.org/randomnumbergenerator) | [rolladie.net](https://rolladie.net/) |
+
 1. What is happening in this present moment?
 2. What sensations are you experiencing in this moment?
 3. Describe your current environment using all five senses.
