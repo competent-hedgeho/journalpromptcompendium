@@ -1,3 +1,8 @@
+
+| Number Generator                                                         | Dice Roller                           |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [numbergenerator.org](https://numbergenerator.org/randomnumbergenerator) | [rolladie.net](https://rolladie.net/) |
+
 1. What are my unique qualities and strengths, and how can I embrace and celebrate them more fully?
 2. What are three things I accomplished this week that I am proud of?
 3. How can I be kinder to myself today?
