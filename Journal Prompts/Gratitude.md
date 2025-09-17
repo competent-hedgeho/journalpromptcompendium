@@ -1,3 +1,8 @@
+
+| Number Generator                                                         | Dice Roller                           |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [numbergenerator.org](https://numbergenerator.org/randomnumbergenerator) | [rolladie.net](https://rolladie.net/) |
+
 1. List three things you’re grateful for today.
 2. Who is someone you’re thankful to have in your life, and why?
 3. What is a simple pleasure that brings you joy?
