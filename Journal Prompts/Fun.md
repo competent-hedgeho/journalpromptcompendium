@@ -1,3 +1,8 @@
+
+| Number Generator                                                         | Dice Roller                           |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [numbergenerator.org](https://numbergenerator.org/randomnumbergenerator) | [rolladie.net](https://rolladie.net/) |
+
 1. What is something silly that always makes me laugh?
 2. What is a favorite childhood memory that still brings me joy?
 3. If I could live in any time period or place, where would I choose and why?
