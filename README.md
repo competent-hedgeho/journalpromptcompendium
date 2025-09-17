@@ -12,7 +12,7 @@ If you're having trouble deciding on a cateogory or a prompt, randomizers are ve
 
 Prompt ideas can be sent through [this github discussion "Prompt Ideas"](https://github.com/competent-hedgeho/journalpromptcompendium/discussions/1#discussion-8911968)
 
-Feedback or reccomendations for improvement (including prompts you don't think belong here!) can be sent through [this github discussion "Feedback"](https://github.com/competent-hedgeho/journalpromptcompendium/discussions/2#discussion-8912008)
+Feedback or recommendations for improvement (including prompts you don't think belong here!) can be sent through [this github discussion "Feedback"](https://github.com/competent-hedgeho/journalpromptcompendium/discussions/2#discussion-8912008)
 
 &nbsp;&nbsp;&nbsp;*clicking the hyperlink will take you directly to the github discussion, but they can also be accessed through the repository for this page titled 'journalpromptcompendium' under competent-hedgeho*
 
