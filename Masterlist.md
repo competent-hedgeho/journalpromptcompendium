@@ -1,0 +1,32 @@
+| Number Generator                                                         | Dice Roller                           |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [numbergenerator.org](https://numbergenerator.org/randomnumbergenerator) | [rolladie.net](https://rolladie.net/) |
+#### Categories
+1. [[Self Reflection]]
+2. [[Gratitude]]
+3. [[Goal Setting]]
+4. [[Mindfulness]]
+5. [[Emotional Healing]]
+6. [[Personal Growth]]
+7. [[Creativity]]
+8. [[Relationship]]
+9. [[Health & Wellness]]
+10. [[Travel & Adventure]]
+11. [[Stress & Anxiety Management]]
+12. [[Self Care]]
+13. [[Overcoming Fear]]
+14. [[Memory Lane]]
+15. [[Productivity & Time Management]]
+16. [[Values & Ethics]]
+17. [[Life Purpose & Meaning]]
+18. [[Financial Goals & Money Management]]
+19. [[Body Positivity & Self Love]]
+20. [[Learning & Education]]
+21. [[Self Esteem]]
+22. [[Fun]]
+23. [[Morning]]
+24. [[Evening]] 
+25. [[For Difficult Times]]
+26. [[Identity]]
+27. [[Inspiring]]
+****
