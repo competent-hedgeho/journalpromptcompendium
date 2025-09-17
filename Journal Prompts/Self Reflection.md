@@ -1,3 +1,8 @@
+
+| Number Generator                                                         | Dice Roller                           |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [numbergenerator.org](https://numbergenerator.org/randomnumbergenerator) | [rolladie.net](https://rolladie.net/) |
+
 1.  What are my core values, and how do they influence my decisions?
 2. Describe a recent challenge I faced and how I overcame it.
 3. How have I grown in the past year?
