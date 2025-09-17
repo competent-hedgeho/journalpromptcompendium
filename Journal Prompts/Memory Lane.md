@@ -1,3 +1,8 @@
+
+| Number Generator                                                         | Dice Roller                           |
+| ------------------------------------------------------------------------ | ------------------------------------- |
+| [numbergenerator.org](https://numbergenerator.org/randomnumbergenerator) | [rolladie.net](https://rolladie.net/) |
+
 1. Describe a favorite childhood memory.
 2. Who was your best friend growing up?
 3. What traditions did your family have?
