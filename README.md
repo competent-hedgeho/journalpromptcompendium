@@ -59,4 +59,4 @@ If you haven't used a random number generator/ online dice roller before, here's
 
 ## Happy Journaling! 
 
-[^1]: Obsidian has a plug in called "Dice Roller" available under community plug ins. This can be easily coded directly into the prompt masterlist and/or individual links using code `dice:1d#` surrounded by backticks, once the plug in is installed and enabled. # needs to be replaced by the number of prompts/categories (for example: 27 for Masterlist or 15 for Self Care). 
+[^1]: Obsidian has a community plug in called "Dice Roller" available under community plug ins. This can be easily coded directly into the prompt masterlist and/or individual links using code `dice:1d#` surrounded by backticks, once the plug in is installed and enabled. # needs to be replaced by the number of prompts/categories (for example: 27 for Masterlist or 15 for Self Care). 
